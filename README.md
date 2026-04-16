@@ -1,0 +1,1 @@
+These are the most important architectures/models and training processes I have worked on as a member of PPCU research group. The most important architectures and results are mentioned and sumamrized in 'summary.pdf'
